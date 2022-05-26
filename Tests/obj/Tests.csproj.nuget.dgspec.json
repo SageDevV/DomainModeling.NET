@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace.NET\\PaymentContext\\Tests\\Tests.csproj": {}
+    "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "D:\\Workspace.NET\\PaymentContext\\Domain\\Domain.csproj": {
+    "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace.NET\\PaymentContext\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Workspace.NET\\PaymentContext\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\sageo\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace.NET\\PaymentContext\\Domain\\obj\\",
+        "projectPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\122589\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sageo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\122589\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +27,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.havan.com.br/nuget": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Workspace.NET\\PaymentContext\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Workspace.NET\\PaymentContext\\Shared\\Shared.csproj"
+              "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\Shared.csproj"
               }
             }
           }
@@ -47,6 +49,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,24 +70,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Workspace.NET\\PaymentContext\\Shared\\Shared.csproj": {
+    "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace.NET\\PaymentContext\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\Workspace.NET\\PaymentContext\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\sageo\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace.NET\\PaymentContext\\Shared\\obj\\",
+        "projectPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\122589\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sageo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\122589\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +97,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.havan.com.br/nuget": {}
         },
         "frameworks": {
           "net6.0": {
@@ -105,6 +115,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -120,24 +136,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Workspace.NET\\PaymentContext\\Tests\\Tests.csproj": {
+    "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace.NET\\PaymentContext\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "D:\\Workspace.NET\\PaymentContext\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\sageo\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace.NET\\PaymentContext\\Tests\\obj\\",
+        "projectPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\122589\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sageo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\122589\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -146,17 +163,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.havan.com.br/nuget": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Workspace.NET\\PaymentContext\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Workspace.NET\\PaymentContext\\Domain\\Domain.csproj"
+              "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Domain\\Domain.csproj"
               },
-              "D:\\Workspace.NET\\PaymentContext\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Workspace.NET\\PaymentContext\\Shared\\Shared.csproj"
+              "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Workspace.NET\\Aplicações\\ModelagemDominios\\Shared\\Shared.csproj"
               }
             }
           }
@@ -186,6 +204,10 @@
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[2.0.5, )"
             }
           },
           "imports": [
@@ -203,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

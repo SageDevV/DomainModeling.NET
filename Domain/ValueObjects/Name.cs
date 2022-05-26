@@ -7,8 +7,11 @@ namespace Domain.ValueObjects{
         {
             FirstName = firstName;
             LastName = lastName;
-        }
 
+            if(String.IsNullOrEmpty(firstName)){
+                AddNotification("Name.firstName", "Nome inválido");
+            }
+        }
         public string FirstName { get; set; }
         public string LastName { get; set; }
     }

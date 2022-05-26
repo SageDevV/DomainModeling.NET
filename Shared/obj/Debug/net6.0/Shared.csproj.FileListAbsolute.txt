@@ -10,3 +10,15 @@ D:\Workspace.NET\PaymentContext\Shared\obj\Debug\net6.0\Shared.dll
 D:\Workspace.NET\PaymentContext\Shared\obj\Debug\net6.0\refint\Shared.dll
 D:\Workspace.NET\PaymentContext\Shared\obj\Debug\net6.0\Shared.pdb
 D:\Workspace.NET\PaymentContext\Shared\obj\Debug\net6.0\ref\Shared.dll
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\bin\Debug\net6.0\Shared.deps.json
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\bin\Debug\net6.0\Shared.dll
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\bin\Debug\net6.0\Shared.pdb
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\Shared.dll
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\refint\Shared.dll
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\Shared.pdb
+C:\Workspace.NET\Aplicações\ModelagemDominios\Shared\obj\Debug\net6.0\ref\Shared.dll
