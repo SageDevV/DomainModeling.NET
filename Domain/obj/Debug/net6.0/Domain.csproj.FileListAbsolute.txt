@@ -1,0 +1,15 @@
+D:\Workspace.NET\PaymentContext\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Workspace.NET\PaymentContext\Domain\bin\Debug\net6.0\Domain.dll
+D:\Workspace.NET\PaymentContext\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.dll
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Workspace.NET\PaymentContext\Domain\bin\Debug\net6.0\Shared.dll
+D:\Workspace.NET\PaymentContext\Domain\bin\Debug\net6.0\Shared.pdb
+D:\Workspace.NET\PaymentContext\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
